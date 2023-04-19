@@ -1,0 +1,10 @@
+opencv-python-headless
+gunicorn==20.1.0
+Pillow==2.2.1
+keras
+tensorflow-cpu
+numpy==1.22.2
+Pillow
+regex
+Flask
+
